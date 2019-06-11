@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "317571844227",
+    "firebase_url": "https://huggies-23404.firebaseio.com",
+    "project_id": "huggies-23404",
+    "storage_bucket": "huggies-23404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317571844227:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317571844227-06ac55g9ta6baj4j3dardvv7241r8don.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "15bc12b9eecc96d1b71c2b4777ccb6a57c2b2553"
+          }
+        },
+        {
+          "client_id": "317571844227-bvnsksr894p7b4qionggg1peau8ljg7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQRNsGbKQTY33x-NGu-GaqTM_Ng0_6ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317571844227-bvnsksr894p7b4qionggg1peau8ljg7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
